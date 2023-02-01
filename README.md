@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">Teste de programação para uma vaga de desenvolvedor C# pleno.</h4>
+<h4 align="center">Teste de programação para uma vaga de desenvolvedor C# jr/pleno.</h4>
 
 <p align="center">
   <a href="#problema">Problema</a> •

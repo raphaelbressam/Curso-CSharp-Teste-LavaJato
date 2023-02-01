@@ -31,5 +31,5 @@ Analise o problema ocorrido e crie funcionalidades onde a empresária irá poder
 
 * Crie um fork deste repositório.
 ![image](https://user-images.githubusercontent.com/5702497/216125890-9e0b099d-1866-4d44-b7f8-df83f6c943c9.png)
-* Suba sua aplicação no repositório que realizou o fork.
+* No repositório que acabou de fazer o fork, suba o código fonte da sua aplicação.
 * Crie um pull request do seu repositório para este aqui.

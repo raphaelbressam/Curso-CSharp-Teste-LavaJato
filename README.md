@@ -29,16 +29,7 @@ Analise o problema ocorrido e crie funcionalidades onde a empresária irá poder
 
 ## How To Use
 
-Clone o repositório, crie uma branch com seu nome e suba sua aplicação:
-
-```bash
-# Clone o repositório
-$ git clone https://github.com/raphaelbressam/Curso-CSharp-Teste-LavaJato.git
-
-# Entre na pasta
-$ cd Curso-CSharp-Teste-LavaJato
-
-# Crie uma branch com seu nome e sobrenome
-$ git checkout -b seunome_sobrenome
-
-```
+* Crie um fork deste repositório:
+![image](https://user-images.githubusercontent.com/5702497/216125890-9e0b099d-1866-4d44-b7f8-df83f6c943c9.png)
+* Suba sua aplicação no repositório que realizou o fork.
+* Crie um pull request do seu repositório para este aqui.

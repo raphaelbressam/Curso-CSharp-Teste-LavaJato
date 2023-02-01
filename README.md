@@ -17,7 +17,9 @@
 
 Rita comprou um lava jato recentemente e já no primeiro mês identificou algumas dificuldades para gerenciar o sua empresa.
 Segundo a ela, deu problema com um carro de um cliente, o cliente alegou que o carro estava sujo e que ele havia deixado para lavar dois dias antes da reclamação.
+
 Ela tentou localizar o no sistema atual o carro pela placa e não conseguiu, então localizou o cadastro do cliente pelo seu nome. No cadastro continha o carro que pertencia ao cliente, mas ela não conseguiu identificar o dia que o carro foi lavado e qual o tipo de lavagem que o cliente solicitou.
+
 Sem ter muito o que fazer, Rita então pegou o carro novamente para lavar e o entregou no mesmo dia.
 
 ## Atividade
